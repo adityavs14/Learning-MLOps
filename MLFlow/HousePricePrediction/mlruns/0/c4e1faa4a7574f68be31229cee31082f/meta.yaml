@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github/Learning-MLOps/MLFlow/HousePricePrediction/mlruns/0/c4e1faa4a7574f68be31229cee31082f/artifacts
+end_time: 1746231270977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4e1faa4a7574f68be31229cee31082f
+run_name: stately-eel-504
+run_uuid: c4e1faa4a7574f68be31229cee31082f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746231215312
+status: 3
+tags: []
+user_id: adity
