@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/215977801730706845
+creation_time: 1746273710078
+experiment_id: '215977801730706845'
+last_update_time: 1746273710078
+lifecycle_stage: active
+name: Wine quality

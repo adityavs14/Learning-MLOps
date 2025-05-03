@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/215977801730706845/002c466870ad4b82af217d0f44e009e9/artifacts
+end_time: 1746273743092
+entry_point_name: ''
+experiment_id: '215977801730706845'
+lifecycle_stage: active
+run_id: 002c466870ad4b82af217d0f44e009e9
+run_name: casual-shark-824
+run_uuid: 002c466870ad4b82af217d0f44e009e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746273738147
+status: 3
+tags: []
+user_id: adity

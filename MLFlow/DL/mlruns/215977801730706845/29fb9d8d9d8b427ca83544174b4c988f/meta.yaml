@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/215977801730706845/29fb9d8d9d8b427ca83544174b4c988f/artifacts
+end_time: 1746273856610
+entry_point_name: ''
+experiment_id: '215977801730706845'
+lifecycle_stage: active
+run_id: 29fb9d8d9d8b427ca83544174b4c988f
+run_name: classy-stag-999
+run_uuid: 29fb9d8d9d8b427ca83544174b4c988f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746273848698
+status: 3
+tags: []
+user_id: adity
